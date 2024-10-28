@@ -1,10 +1,12 @@
 ## Design Manifesto
-1. **Clarity and Simplicity:** I believe that less is more. Every element in my design should have a purpose, with nothing unnecessary or excessive. Simplicity is powerful because it allows the message to shine through without distractions, creating a cohesive and intuitive experience.
 
-2. **Purity:** I strive for clean and elegant designs that are visually light and easy to understand. Purity in design means stripping away clutter and focusing on what truly matters. I aim for a refined aesthetic that is easy on the eyes and brings a sense of calm.
+   1. **Simplicity and Clarity:** In my opinion, less is more. Nothing in my design should be superfluous or superfluous; everything should have a function. Simplicity creates a unified and intuitive experience by letting the content shine through without interruptions.
 
-3. **Meaningfulness:** Every visual detail in my designs has a reason to exist. I don’t add elements just for the sake of aesthetics but to serve a functional purpose. I believe that design should be both beautiful and useful, with each component contributing to the overall message or experience.
+2. **Honesty:** I strive for clean and elegant designs that are visually light and easy to understand. In design, purity entails removing extraneous elements and concentrating on what really counts. My goal is to create a sophisticated, visually pleasing, and peaceful style.
 
-4. **Functionality:** The primary goal of my designs is to simplify the complex. I prioritize usability and clarity to ensure that the end user can interact with the design effortlessly. A well-functioning design solves problems, reduces friction, and enhances the user experience.
+3. **Significance:** Every visual element in my designs has a specific function. I incorporate features not just for aesthetic reasons but also to have a practical purpose. Every component should contribute to the overall experience or message, and design should, in my opinion, be both aesthetically beautiful and useful.
 
-5. **Visual Calm:** I aim to create designs that evoke a sense of peace and balance. Visual calm comes from thoughtful composition, whitespace, and harmony between elements. My goal is to provide an experience that feels intuitive, peaceful, and free of visual noise.
+
+4. **Usability:** Simplifying the complex is my main design objective. To make sure the end user can easily interact with the design, I place a high priority on usability and clarity. An effective design improves the user experience, lowers friction, and resolves issues.
+
+5. **Visual Calm:** My goal is to produce designs that inspire a feeling of harmony and tranquility. Whitespace, elemental harmony, and careful composition all contribute to visual serenity. My intention is to provide an intuitive, serene, and visual noise-free experience.
