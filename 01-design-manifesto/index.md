@@ -1,7 +1,6 @@
 ## Design Manifesto
 
-   1. **Simplicity and Clarity:**
-In my opinion, less is more. Nothing in my design should be superfluous or superfluous; everything should have a function. Simplicity creates a unified and intuitive experience by letting the content shine through without interruptions.
+   1. **Simplicity and Clarity:** In my opinion, less is more. Nothing in my design should be superfluous or superfluous; everything should have a function. Simplicity creates a unified and intuitive experience by letting the content shine through without interruptions.
 
 3. **Honesty:** I strive for clean and elegant designs that are visually light and easy to understand. In design, purity entails removing extraneous elements and concentrating on what really counts. My goal is to create a sophisticated, visually pleasing, and peaceful style.
 
