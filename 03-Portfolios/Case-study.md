@@ -48,7 +48,7 @@ Key elements:
 ---
 
 ### Program Booklet  
-![Program Booklet Interior](insert-link-here)
+![Program Booklet Interior](IMG/c5cdd3e8-22e1-4391-bd8f-3b4e5fa13f46.jpg)
 
 *The program features a clear structure with illustrations of instruments and an elegant serif typeface.*
 
