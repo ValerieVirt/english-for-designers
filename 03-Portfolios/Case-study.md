@@ -48,7 +48,7 @@ Key elements:
 ---
 
 ### Program Booklet  
-![Program Booklet Interior](..IMG/c5cdd3e8-22e1-4391-bd8f-3b4e5fa13f46.jpg) 
+![Program Booklet Interior](https://github.com/ValerieVirt/english-for-designers/blob/09d2432d0ea475960436805d8e8471ca82313cd8/IMG/c5cdd3e8-22e1-4391-bd8f-3b4e5fa13f46.jpg) 
 
 *The program features a clear structure with illustrations of instruments and an elegant serif typeface.*
 
