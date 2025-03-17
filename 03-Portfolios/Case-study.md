@@ -43,7 +43,7 @@ Key elements:
 ### Poster Design  
 | Obrázek 1 | Obrázek 2 |
 |-----------|-----------|
-| ![Obrázek 1](https://github.com/ValerieVirt/english-for-designers/blob/2ddd441a3e62ea55cc56fd0b4df0bb92a3889df4/IMG/1ef1729f-4006-4ce7-be80-d930c055d509_rw_1920.jpg)) | ![Obrázek 2](../IMG/obrazek2.jpg) |
+| ![Obrázek 1](https://github.com/ValerieVirt/english-for-designers/blob/2ddd441a3e62ea55cc56fd0b4df0bb92a3889df4/IMG/1ef1729f-4006-4ce7-be80-d930c055d509_rw_1920.jpg) | ![Obrázek 2](https://github.com/ValerieVirt/english-for-designers/blob/0b211a54d24c1738fd2bb81c36859bc2704a9558/IMG/444f3711-3b69-46aa-b4f5-7034f9a46d68_rw_3840.jpg) |
 
 
 *This poster promotes the "Hollywood Night" concert, using refined typography and a bold, clean layout.*
