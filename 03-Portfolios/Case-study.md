@@ -50,7 +50,7 @@ Key elements:
 ---
 
 ### Program Booklet  
-![Program Booklet Interior](https://github.com/ValerieVirt/english-for-designers/blob/09d2432d0ea475960436805d8e8471ca82313cd8/IMG/c5cdd3e8-22e1-4391-bd8f-3b4e5fa13f46.jpg) (https://github.com/ValerieVirt/english-for-designers/blob/d3aa1d682b275cdd5896a63f5925758358fb90e3/IMG/e47307b2-dc2b-4785-9f0a-3b9604766917.jpg) 
+![Program Booklet Interior](https://github.com/ValerieVirt/english-for-designers/blob/09d2432d0ea475960436805d8e8471ca82313cd8/IMG/c5cdd3e8-22e1-4391-bd8f-3b4e5fa13f46.jpg)![Obrázek 2](https://github.com/ValerieVirt/english-for-designers/blob/f671dff6b093afc67b75a933144c4bbda6635650/IMG/e47307b2-dc2b-4785-9f0a-3b9604766917.jpg)
 
 *The program features a clear structure with illustrations of instruments and an elegant serif typeface.*
 
