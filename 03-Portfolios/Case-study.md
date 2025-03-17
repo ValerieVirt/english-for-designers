@@ -41,7 +41,10 @@ Key elements:
 ---
 
 ### Poster Design  
-![Poster - Hollywood Night](insert-link-here)
+| Obrázek 1 | Obrázek 2 |
+|-----------|-----------|
+| ![Obrázek 1](../IMG/obrazek1.jpg) | ![Obrázek 2](../IMG/obrazek2.jpg) |
+
 
 *This poster promotes the "Hollywood Night" concert, using refined typography and a bold, clean layout.*
 
