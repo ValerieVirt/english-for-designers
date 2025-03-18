@@ -1,5 +1,5 @@
 ### 🎼 What happens when classical music gets a modern makeover?  
-Here’s how rebranding Prague Proms Festival hit all the right notes – combining tradition, style, and clarity into one harmonious visual identity.
+This is how the rebranding of Prague Proms Festival combined tradition, modern style, and clear design – all in perfect harmony.
 
 # Design That Resonates  
 *How Rebranding Hit the Right Notes at Prague Proms Festival*
