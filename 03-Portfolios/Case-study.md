@@ -7,6 +7,7 @@ This is how the rebranding of Prague Proms Festival combined tradition, modern s
 
 ## The Need for a Brand Refresh  
 The original visual identity of Prague Proms was not consistent and didn’t stand out, especially online. The festival connects classical music with modern styles, but the design didn’t show this clearly. It needed a new look that felt elegant, memorable, and worked well in both print and digital formats.
+
 I created the entire new identity from scratch, including print, digital, and web design.
 
 
