@@ -31,14 +31,10 @@ That’s the kind of work I care about — and the kind of team I’d love to be
 When I was preparing this talk, I thought a lot about what makes a story feel real and meaningful.
 I realized that good storytelling — just like good design — needs a few key elements:
 
-#### Honesty
- - being true to your own experience.
-#### Structure
- – knowing where you’re taking the listener, even if the path feels simple.
-#### Emotion 
- – something that makes people feel connected — not just informed.
-#### Voice
- – not being afraid to sound like you.
+#### Honesty - being true to your own experience.
+#### Structure - knowing where you’re taking the listener, even if the path feels simple.
+#### Emotion - something that makes people feel connected — not just informed.
+#### Voice - not being afraid to sound like you.
 
 I wanted this story to be a story about the way I think, work, and grow — because that’s what I bring into a team.
 
