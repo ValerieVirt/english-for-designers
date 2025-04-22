@@ -34,7 +34,7 @@ Key elements:
 ## 🎨 Visuals  
 
 ### Logo – Before and after
-![git](https://github.com/user-attachments/assets/10e616ce-3f1c-4767-b60a-e2135058ed3f)
+![gith](https://github.com/user-attachments/assets/eb07b695-b7cd-43f0-87ce-49895a8ddc1c)
 
 
 ### Stationery  
