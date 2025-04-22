@@ -31,25 +31,23 @@ Key elements:
 ## 🎨 Visuals  
 
 ### Logo – Before and after
-![gith](https://github.com/user-attachments/assets/eb07b695-b7cd-43f0-87ce-49895a8ddc1c)
+![pr](https://github.com/user-attachments/assets/2afc2d24-00a8-40da-8600-6876941e456e)
 
 
 ### Stationery  
-![Logo and Stationery](https://github.com/ValerieVirt/english-for-designers/blob/3728cd80b18839cebc653bd702c20831ad821618/IMG/ad696191-7703-44f4-a47c-95ef00eff8c6.jpg)
+![ad696191-7703-44f4-a47c-95ef00eff8c6](https://github.com/user-attachments/assets/7ebf89a1-5c6d-40fd-951d-6d775de9728c)
 
 *Business cards, envelopes, and logo usage*
 
 
 ### Poster Design  
-![Obrázek 1](https://github.com/ValerieVirt/english-for-designers/blob/2ddd441a3e62ea55cc56fd0b4df0bb92a3889df4/IMG/1ef1729f-4006-4ce7-be80-d930c055d509_rw_1920.jpg) 
-![Obrázek 2](https://github.com/ValerieVirt/english-for-designers/blob/0b211a54d24c1738fd2bb81c36859bc2704a9558/IMG/444f3711-3b69-46aa-b4f5-7034f9a46d68_rw_3840.jpg) 
-
+![holl](https://github.com/user-attachments/assets/6a02480a-f64c-4823-bd23-199004d49688)
 
 *This poster promotes the "Hollywood Night" concert, using refined typography and a bold, clean layout.*
 
 
 ### Program Booklet  
-![Program Booklet Interior](https://github.com/ValerieVirt/english-for-designers/blob/09d2432d0ea475960436805d8e8471ca82313cd8/IMG/c5cdd3e8-22e1-4391-bd8f-3b4e5fa13f46.jpg)![Obrázek 2](https://github.com/ValerieVirt/english-for-designers/blob/f671dff6b093afc67b75a933144c4bbda6635650/IMG/e47307b2-dc2b-4785-9f0a-3b9604766917.jpg)
+![not](https://github.com/user-attachments/assets/082166d5-9c79-4819-8f6c-4e716a3143e5)
 
 *The program features a clear structure with illustrations of instruments and an elegant serif typeface.*
 
