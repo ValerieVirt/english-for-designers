@@ -21,10 +21,10 @@ The biggest challenge was to create a design that feels **both timeless and mode
 ## My Approach to Branding  
 I created a **complete visual identity system**, including logo, printed materials (posters, programs, stationery), merchandise, and a **web design concept in Figma**.  
 Key elements:  
-- Elegant, modern typography  
-- Simple line illustrations of musical instruments  
-- Color palette with deep navy, ivory, and burgundy  
-- User-friendly web design
+- Elegant, modern typography
+- Simple line illustrations of musical instruments
+- Vibrant color palette with deep navy, ivory, and burgundy
+- Intuitive and user-friendly website
 
 
 ## 🎨 Visuals  
