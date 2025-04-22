@@ -1,4 +1,5 @@
 Hi, I’m Valerie,
+
 and one thing I’ve come to believe over time is that design is never a solo job. 
 Of course, there are moments when I work alone — sketching ideas, moving things around, adjusting details. But the work that matters, the work that works — always happens with others.
 
