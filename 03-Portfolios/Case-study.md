@@ -33,10 +33,14 @@ Key elements:
 
 ## 🎨 Visuals  
 
-### Logo and Stationery  
+### Logo – Before and after
+![git](https://github.com/user-attachments/assets/10e616ce-3f1c-4767-b60a-e2135058ed3f)
+
+
+### Stationery  
 ![Logo and Stationery](https://github.com/ValerieVirt/english-for-designers/blob/3728cd80b18839cebc653bd702c20831ad821618/IMG/ad696191-7703-44f4-a47c-95ef00eff8c6.jpg)
 
-*Short description here (e.g., business cards, envelopes, and logo usage).*
+* Business cards, envelopes, and logo usage *
 
 ---
 
