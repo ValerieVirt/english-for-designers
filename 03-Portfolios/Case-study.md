@@ -61,7 +61,8 @@ Key elements:
 ---
 
 ### Web Design Concept (Figma)  
-[Figma Prototype →](https://www.figma.com/proto/k4VsZOdwGLc4smAPIvQdFi/V%C5%A0KK?page-id=0%3A1&node-id=4-29&p=f&viewport=391%2C352%2C0.25&t=2TGMT3tDMYMteGn5-1&scaling=min-zoom&content-scaling=fixed)
+**The branding doesn’t stop at print – explore the interactive web version here:**  
+[🎬 Launch prototype](https://www.figma.com/proto/k4VsZOdwGLc4smAPIvQdFi/V%C5%A0KK?node-id=102-177&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share)
 
 *Web design focused on clarity, easy navigation, and consistent branding across pages.*
 
@@ -77,8 +78,8 @@ This project showed me how **good design can support and improve cultural events
 
 ---
 
-## Tools Used  
-- Adobe Illustrator  
-- Adobe InDesign  
-- Figma  
-- Photoshop  
+## Tools
+To create the logo and choose the right typography, I used Adobe Illustrator – it’s precise and flexible.
+For the website design, I worked in Figma. It helped me build a clean and easy-to-use layout.
+I used Photoshop to finish high-quality visuals, and Adobe InDesign to keep all printed materials like programs and posters consistent.
+I really enjoy working in InDesign – it’s my favorite!
