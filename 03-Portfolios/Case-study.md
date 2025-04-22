@@ -55,6 +55,8 @@ Key elements:
 
 
 ### Web Design Concept (Figma)  
+<img width="1487" alt="Snímek obrazovky 2025-04-22 v 10 46 19" src="https://github.com/user-attachments/assets/6c64ecba-c97d-4568-98fa-84da333d80a2" />
+
 **The branding doesn’t stop at print – explore the interactive web version here:**  
 [🎬 Launch prototype](https://www.figma.com/proto/k4VsZOdwGLc4smAPIvQdFi/V%C5%A0KK?node-id=102-177&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share)
 
