@@ -49,6 +49,9 @@ Key elements:
 ### Program Booklet  
 ![not](https://github.com/user-attachments/assets/082166d5-9c79-4819-8f6c-4e716a3143e5)
 
+![3395f43e-5439-4b24-9dac-36a6e7bedbbe_rw_1200](https://github.com/user-attachments/assets/2444e883-2e28-4754-96a3-de4abda0b94d)
+
+
 *The program features a clear structure with illustrations of instruments and an elegant serif typeface.*
 
 
