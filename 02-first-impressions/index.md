@@ -1,4 +1,4 @@
-# First Impressions of me | 
+# First Impressions of me | [About me](about-me)
 
 Hello! 
 I'm Valerie, and I’m a junior graphic designer.  
