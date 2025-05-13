@@ -29,9 +29,9 @@ We tested and refined different approaches until we found one that worked.
 In the end, we created a unified identity inspired by the tennis ball and its trajectory.
 Simple. Dynamic. Playful. Full of energy.
 A design that felt right not just for us, but for the people who love and live tennis.
-![NAROD_TASKA_pohyb](https://github.com/user-attachments/assets/41bbd7ef-8656-4407-9bc6-05a7b28a1471)
-![KSIL_POHYB_NAROD](https://github.com/user-attachments/assets/07f7986d-6f09-4e24-93b7-82134035168b)
 
+
+![Bez názvu-3](https://github.com/user-attachments/assets/b3253555-fd9a-46c5-8a56-a4631db37e3c)
 
 
 
