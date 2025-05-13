@@ -20,7 +20,7 @@ At the start, the team had many ideas:
 Should we focus on the net? The racket? The ball?
 What visual style feels right for this sport and this community?
 
-![Bez názvu-2](https://github.com/user-attachments/assets/29a54d96-38b4-409e-b035-26c8fc756ff3)
+![Bez názvu-2](https://github.com/user-attachments/assets/29a54d96-38b4-409e-b035-26c8fc756ff3)
 
 We had open discussions and explored different directions.
 
@@ -33,7 +33,7 @@ Simple. Dynamic. Playful. Full of energy.
 A design that felt right not just for us, but for the people who love tennis.
 
 
-![Bez názvu-3](https://github.com/user-attachments/assets/b3253555-fd9a-46c5-8a56-a4631db37e3c)
+![Bez názvu-3](https://github.com/user-attachments/assets/b3253555-fd9a-46c5-8a56-a4631db37e3c)
 
 
 
@@ -88,4 +88,3 @@ I shaped them into a flow: intro → insight → process → values → closing.
 And finally, I read it out loud — several times — to make sure it sounds like me, not like a script.
 
 I didn’t want it to be about impressing anyone. I wanted it to feel like a conversation — because that’s how I work best: in dialogue.
-
