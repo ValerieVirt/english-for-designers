@@ -1,30 +1,54 @@
+## Design Happens Together
+
 Hi, I’m Valerie,
+and I’ve learned that design is never a solo job.
 
-and one thing I’ve come to believe over time is that design is never a solo job. 
-Of course, there are moments when I work alone — sketching ideas, moving things around, adjusting details. But the work that matters, the work that works — always happens with others.
+Yes, there are quiet moments when I work alone — sketching, adjusting, refining details.
+But the work that truly matters always happens with others.
 
-For me, teamwork is where design becomes real.
-It’s in the conversations, in the questions that challenge my assumptions, and in those moments when someone says something I hadn’t thought of — and suddenly, the whole thing clicks.
+For me, teamwork is where design becomes real.
+In the conversations.
+In the questions that challenge me.
+In the moment someone shares an unexpected idea — and suddenly, the whole direction becomes clearer.
 
-I’ve always been someone who enjoys bringing structure and calm into creative chaos. I like it when things make sense. But I’ve learned that clarity doesn’t come from working in isolation — it comes from talking to people, from listening, and from being open to change.
+I enjoy bringing structure and calm into creative chaos.
+I like it when things make sense.
+But I’ve also learned that clarity doesn’t come from working alone — it comes from listening, discussing, and staying open to change.
 
-Sometimes that means slowing down.
-Sometimes it means letting go of my first idea.
-And sometimes it just means being quiet and hearing what others need.
+A project that truly showed me the power of collaboration was the redesign of the visual identity for Czech Tennis.
+At the start, the team had many ideas:
+Should we focus on the net? The racket? The ball?
+What visual style feels right for this sport and this community?
 
-That’s not always easy — but I think it’s one of the most important parts of being a designer.
+We had open discussions and explored different directions.
+(👉 Here I would show some early moodboards and sketches on the screen.)
+
+I contributed by developing design concepts and visual ideas for merchandise, brand elements, and marketing communication.
+We tested and refined different approaches until we found one that worked.
+
+In the end, we created a unified identity inspired by the tennis ball and its trajectory.
+Simple. Dynamic. Playful. Full of energy.
+A design that felt right not just for us, but for the people who love and live tennis.
+![NAROD_TASKA_pohyb](https://github.com/user-attachments/assets/41bbd7ef-8656-4407-9bc6-05a7b28a1471)
+![KSIL_POHYB_NAROD](https://github.com/user-attachments/assets/07f7986d-6f09-4e24-93b7-82134035168b)
+
+
+
+
+This experience reminded me of what I believe as a designer:
+Sometimes you have to slow down.
+Sometimes you have to let go of your first idea.
+And sometimes you simply need to be quiet and hear what others need.
 
 I don’t want to be the person with “the best idea in the room.”
-I want to be the person who helps everyone’s ideas work together.
-In the end, I think good design should feel simple, even if it isn't simple to make.
-It should feel like it belongs — like it fits.
-And that only happens when people collaborate, trust each other, and care not just about the outcome — but also about the process.
+I want to be the one who helps everyone’s ideas work together.
 
-That’s the kind of designer I try to be:
-Focused, thoughtful, collaborative.
-Someone who brings people together and helps things make sense — clearly, calmly, and with care.
+Because good design should feel simple — even if it wasn’t simple to create.
+It should feel like it belongs.
+And that only happens when people collaborate, trust each other, and care about the process, not just the result.
 
-That’s the kind of work I care about — and the kind of team I’d love to be part of.
+That’s the kind of designer I am.
+And the kind of team I’d love to be part of.
 
 
 ### Overview of Storytelling Principles and Key Elements
@@ -60,3 +84,4 @@ I shaped them into a flow: intro → insight → process → values → closing.
 And finally, I read it out loud — several times — to make sure it sounds like me, not like a script.
 
 I didn’t want it to be about impressing anyone. I wanted it to feel like a conversation — because that’s how I work best: in dialogue.
+
