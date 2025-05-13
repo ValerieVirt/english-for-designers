@@ -20,8 +20,10 @@ At the start, the team had many ideas:
 Should we focus on the net? The racket? The ball?
 What visual style feels right for this sport and this community?
 
+![Bez názvu-2](https://github.com/user-attachments/assets/29a54d96-38b4-409e-b035-26c8fc756ff3)
+
 We had open discussions and explored different directions.
-(👉 Here I would show some early moodboards and sketches on the screen.)
+
 
 I contributed by developing design concepts and visual ideas for merchandise, brand elements, and marketing communication.
 We tested and refined different approaches until we found one that worked.
@@ -49,6 +51,8 @@ And that only happens when people collaborate, trust each other, and care about 
 
 That’s the kind of designer I am.
 And the kind of team I’d love to be part of.
+
+
 
 
 ### Overview of Storytelling Principles and Key Elements
