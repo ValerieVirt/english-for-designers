@@ -1,7 +1,7 @@
 ## Design Happens Together
 
 Hi, I’m Valerie,
-and I’ve learned that design is never a solo job. ![Bez názvu-5](https://github.com/user-attachments/assets/5bfcb03d-dc1d-4a6e-8d84-34838050d544)
+and I’ve learned that design is never a solo job. 
 
 Yes, there are quiet moments when I work alone — sketching, adjusting, refining details.
 But the work that truly matters always happens with others.
@@ -30,7 +30,7 @@ We tested and refined different approaches until we found one that worked.
 
 In the end, we created a unified identity inspired by the tennis ball and its trajectory.
 Simple. Dynamic. Playful. Full of energy.
-A design that felt right not just for us, but for the people who love and live tennis.
+A design that felt right not just for us, but for the people who love tennis.
 
 
 ![Bez názvu-3](https://github.com/user-attachments/assets/b3253555-fd9a-46c5-8a56-a4631db37e3c)
@@ -38,9 +38,9 @@ A design that felt right not just for us, but for the people who love and live t
 
 
 This experience reminded me of what I believe as a designer:
-Sometimes you have to slow down.
-Sometimes you have to let go of your first idea.
-And sometimes you simply need to be quiet and hear what others need.
+    Sometimes you have to slow down.
+    Sometimes you have to let go of your first idea.
+    And sometimes you simply need to be quiet and hear what others need.
 
 I don’t want to be the person with “the best idea in the room.”
 I want to be the one who helps everyone’s ideas work together.
