@@ -1,9 +1,7 @@
 ## Design Happens Together
 
 Hi, I’m Valerie,
-and I’ve learned that design is never a solo job. 
-
-![Bez názvu-5](https://github.com/user-attachments/assets/5bfcb03d-dc1d-4a6e-8d84-34838050d544)
+and I’ve learned that design is never a solo job. ![Bez názvu-5](https://github.com/user-attachments/assets/5bfcb03d-dc1d-4a6e-8d84-34838050d544)
 
 Yes, there are quiet moments when I work alone — sketching, adjusting, refining details.
 But the work that truly matters always happens with others.
